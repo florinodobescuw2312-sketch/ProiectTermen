@@ -1,2 +1,1 @@
-print("salut")
-print("Functionalitate X")
+print("FEATURE")
